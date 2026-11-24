@@ -1,4 +1,4 @@
-# Anisble_PaloAlto_Bootstrap
+t# Anisble_PaloAlto_Bootstrap
 
 This enables you to access Palo Alto devices via oob mgmt.</br>
 
@@ -36,6 +36,11 @@ cat PA-01.cfg
 
 This will then commit and exit.
 If a mistake or mismatch of password is generated just run the last command again.
+
+show interface management 
+
+<img width="940" height="880" alt="image" src="https://github.com/user-attachments/assets/cd909bb3-4407-43cc-88cf-24421c560db3" />
+
 
 
 
