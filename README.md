@@ -41,6 +41,22 @@ show interface management
 
 <img width="940" height="880" alt="image" src="https://github.com/user-attachments/assets/cd909bb3-4407-43cc-88cf-24421c560db3" />
 
+6. Run</>
+7. 
+    python3 master_paloalto1.py </>
+   
+   This generates the file needed for ansible-play to configure the Palo Alto firewalls.
+
+   <img width="1067" height="201" alt="image" src="https://github.com/user-attachments/assets/89bedba8-725b-44c6-b38e-bfd065788869" />
+
+   run ansible-playbook -i inventory.ini site_deploy.yml</r>
+
+   ansible   
+
+
+   
+   
+
 
 
 
